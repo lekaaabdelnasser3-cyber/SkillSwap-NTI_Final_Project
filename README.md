@@ -166,3 +166,8 @@ Developed as a team project as part of the **NTI Full Stack PHP Training Program
 <p align="center">
   Built to connect people through skills and knowledge.
 </p>
+## Project Presentation
+
+Explore our project presentation to learn more about **Skills. — Skill-Sharing Platform**, its features, workflow, and implementation.
+
+📊 **[View Project Presentation](https://drive.google.com/drive/folders/11NXaPRD9U4V1BnWRiX3msXhc7k4fwRQ1?usp=drive_link)**
